@@ -1,0 +1,11 @@
+{
+  "name": "Nodejs_101",
+  "version": "1.0.0",
+  "description": "my http server",
+  "main": "index.js",
+  "author": "Siwa",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
